@@ -31,14 +31,10 @@ with open('text.txt','r') as file1:
 print("Number of words={}".format(num_words))
 ```
 
-## Text file:
-```
-with open("text.txt",'w')as fp:
-  fp.write("Hello World")
-  fp.write("\nWelcome to Python")
-  fp.write("\nHave a Good Day")
-```
+
+
 ### OUTPUT:
+![image](https://github.com/Bosevennila/Word-count/assets/144870486/030df42d-1c84-4637-8c66-ede6a9a2ecb7)
 
 
 
